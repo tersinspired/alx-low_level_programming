@@ -38,12 +38,12 @@ int main(void)
 		if (f1o > 0)
 			printf("%lu", f1o);
 		initial0s = numLenght(mx) - 1 - numLenght(f1);
-		while (f10 > 0 && initial0s > 0)
+		while (f1o > 0 && initial0s > 0)
 		{
 			printf("%i", 0);
 			initial0s--;
 		}
-		print("%lu", f1);
+		printf("%lu", f1);
 
 		tmp = (f1 + f2) % mx;
 		tmpo = f1o + f2o + (f1 + f2) / mx;
