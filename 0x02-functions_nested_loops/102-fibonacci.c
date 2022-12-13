@@ -17,17 +17,17 @@ int main(void)
 	{
 		if (j != 20365011074)
 		{
-			printf("%id, ", j);
+			printf("%ld, ", j);
 		}
 
 		else
 		{
-			printf("%id\n", j);
+			printf("%ld\n", j);
 		}
 
-		1 = j + k;
+		l = j + k;
 		j = k;
-		k = 1;
+		k = l;
 	}
 
 	return (0)
