@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * mull - multiples 2 nums
+ * mul - multiples 2 nums
  * @a: first param
  * @b: second param
  * Return: something
