@@ -1,5 +1,5 @@
 #ifndef MAIN_H
-#define main_h
+#define MAIN_H
 
 int _putchar(char c);
 int check_num(char *str);
